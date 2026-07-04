@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+kiwipiepy
+transformers
+torch
+sentence-transformers
+huggingface-hub
+fasttext-wheel
+lifelines
+scikit-posthocs
+tqdm
