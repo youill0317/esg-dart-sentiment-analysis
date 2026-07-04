@@ -1,0 +1,14 @@
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+plotly
+requests
+beautifulsoup4
+lxml
+kiwipiepy
+transformers
+sentence-transformers
